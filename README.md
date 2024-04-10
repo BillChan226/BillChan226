@@ -23,7 +23,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BillChan226&count_private=true&theme=vue&show_icons=true)]()
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BillChan226&langs_count=8&theme=vue&layout=compact)]()
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
 [website]: https://BillChan226.github.io/
