@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm Zhaorun [Personal Website][website] 👋
 
-<!--
-**BillChan226/BillChan226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="HZ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HZ | GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][GoogleScholar]
+[<img align="left" alt="HZ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+<br />
+
+
+
+### :beach_umbrella: My Research Interests
+- Trustworthy deployment and safe interactions with large foundation models and agents from both a theoretical and empirical perspective. 
+- enhancing LLM's trustworthiness via retrieval-augmented generation (RAG) and robustness certificates for hallucination, alignment, jailbreaks and privacy.
+
+
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BillChan226&count_private=true&theme=vue&show_icons=true)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BillChan226&langs_count=8&theme=vue&layout=compact)]()
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+
+[website]: https://BillChan226.github.io/
+[twitter]: https://twitter.com/ZRChen_AISafety
+[GoogleScholar]: https://scholar.google.com/citations?user=UZg5N5UAAAAJ&hl=en
